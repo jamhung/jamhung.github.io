@@ -1,0 +1,1 @@
+I was a late bloomer in high school, and I'm definitely a late bloomer in the blogging world. So here's my attempt to things going. I'm hoping to get a real post out soon!
