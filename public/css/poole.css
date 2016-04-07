@@ -186,7 +186,11 @@ pre code {
 }
 .highlight pre {
   margin-bottom: 0;
+  white-space: pre;
+  overflow: auto;
 }
+
+
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
