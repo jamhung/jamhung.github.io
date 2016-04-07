@@ -118,7 +118,7 @@ class UserDataSource {
 {% highlight swift %}
 
 class UserDataSource {
-    var userService: UserAPIService {
+    let userService: UserAPIService {
         return UserAPIService()
     }
 
